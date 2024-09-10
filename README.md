@@ -23,3 +23,5 @@ Le taux de fraude sur l'ensemble de la base est autour de 1.4%.
 La métrique utilisé est l'aire sous la courbe Précision-Rappel.
 
 Le code fourni est notre solution pour le data challenge 
+
+Nous avions été dans le top 5 de ce challenge quand nous l'avions fait 
